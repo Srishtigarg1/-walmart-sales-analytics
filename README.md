@@ -16,17 +16,17 @@ End-to-end sales analysis on 10,000+ Walmart transactions built with Python, SQL
 ![Revenue 2](images/images/Screenshot%202026-07-17%20220023.png)
 
 ### Branch Intelligence
-![Branches 1](images/imagesScreenshot%202026-07-17%20220045.png)
-![Branches 2](images/imagesScreenshot%202026-07-17%20220104.png)
+![Branches 1](images/images/Screenshot%202026-07-17%20220045.png)
+![Branches 2](images/images/Screenshot%202026-07-17%20220104.png)
 
 ### Operational Analytics
-![Operations 1](images/imagesScreenshot%202026-07-17%20220116.png)
-![Operations 2](images/imagesScreenshot%202026-07-17%20220125.png)
+![Operations 1](images/images/Screenshot%202026-07-17%20220116.png)
+![Operations 2](images/images/Screenshot%202026-07-17%20220125.png)
 
 ### Profitability Intelligence
-![Profitability 1](images/imagesScreenshot%202026-07-17%20220141.png)
-![Profitability 2](images/imagesScreenshot%202026-07-17%20220224.png)
-![Profitability 3](images/imagesScreenshot%202026-07-17%20220234.png)
+![Profitability 1](images/images/Screenshot%202026-07-17%20220141.png)
+![Profitability 2](images/images/Screenshot%202026-07-17%20220224.png)
+![Profitability 3](images/images/Screenshot%202026-07-17%20220234.png)
 
 ---
 
