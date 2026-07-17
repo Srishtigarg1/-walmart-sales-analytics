@@ -7,8 +7,9 @@ End-to-end sales analysis on 10,000+ Walmart transactions built with Python, SQL
 ## Dashboard Preview
 
 ### Overview
-![Overview 1](images/Screenshot%202026-07-17%20215938.png)
-![Overview 2](images/Screenshot%202026-07-17%20215952.png)
+![Overview 1](images/images/Screenshot%202026-07-17%20215938.png)
+![Overview 2](images/images/Screenshot%202026-07-17%20215952.png)
+
 
 ### Revenue Analysis
 ![Revenue 1](images/Screenshot%202026-07-17%20220009.png)
