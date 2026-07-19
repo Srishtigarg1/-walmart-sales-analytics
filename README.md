@@ -1,6 +1,11 @@
+
+
 # Walmart Sales Intelligence Dashboard
 
 End-to-end sales analysis on 10,000+ Walmart transactions built with Python, SQL, Pandas and Streamlit — styled with official Walmart brand colors.
+
+🚀 **[Live Dashboard → walmart-sales-dashboard-by-srishti.streamlit.app](https://walmart-sales-dashboard-by-srishti.streamlit.app/)**
+
 
 ---
 
