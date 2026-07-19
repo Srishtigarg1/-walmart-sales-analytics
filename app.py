@@ -31,7 +31,7 @@ st.markdown("""
 </style>
 """, unsafe_allow_html=True)
 
-# Official Walmart brand colors (2025 refresh)
+# Official  brand colors (2025 refresh)
 WMT_TRUE_BLUE = "#0071CE"
 WMT_SPARK_YELLOW = "#FFC220"
 WMT_DARK_BLUE = "#041F41"
@@ -71,7 +71,7 @@ st.markdown(f"""
     h3 {{ font-size: 0.68rem !important; font-weight: 700 !important; color: {WMT_LIGHT_BLUE} !important;
           text-transform: uppercase !important; letter-spacing: 2px !important; margin-bottom: 0.8rem !important; }}
 
-    /* Metric cards — official Walmart blue */
+    /* Metric cards — official  blue */
     [data-testid="metric-container"] {{
         background: linear-gradient(135deg, rgba(0,113,206,0.15) 0%, rgba(4,31,65,0.8) 100%);
         border: 1px solid rgba(0,113,206,0.3);
@@ -210,7 +210,7 @@ CT = {
 
 @st.cache_data
 def load_data():
-    df = pd.read_csv('walmart.csv')
+    df = pd.read_csv('Walmart.csv')
     df['unit_price'] = df['unit_price'].astype(str).str.replace('$', '', regex=False).astype(float)
     df['revenue'] = df['unit_price'] * df['quantity']
     df['profit'] = df['revenue'] * df['profit_margin']
